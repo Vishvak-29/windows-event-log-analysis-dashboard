@@ -24,11 +24,6 @@ An interactive Power BI dashboard developed to analyze Windows Security Event Lo
 
 The dashboard is built using Windows Security Event Logs containing authentication events, including successful logins, failed logins, and account management activities.
 
-## Dashboard
-
-A preview of the Power BI dashboard is shown below.
-images/Screenshot 2026-07-06 203859.png
-
 ## Repository Structure
 
 ```text
