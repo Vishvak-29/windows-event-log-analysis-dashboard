@@ -27,7 +27,7 @@ The dashboard is built using Windows Security Event Logs containing authenticati
 ## Dashboard
 
 A preview of the Power BI dashboard is shown below.
-
+images
 
 ## Repository Structure
 
