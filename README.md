@@ -30,7 +30,9 @@ The dashboard is built using Windows Security Event Logs containing authenticati
 ├── Windows_Event_Log_Analysis.pbix
 ├── Sample_Logs.xlsx
 ├── images/
-│   └── dashboard.png
+│   └── Screenshot 2026-07-06 203859.png
+    └── Screenshot 2026-07-06 203956.png
+    └── Screenshot 2026-07-06 204007.png
 └── README.md
 ```
 
